@@ -1,0 +1,51 @@
+.container {margin-left: 0px;
+            margin-right: 0px;}
+
+h1{font-size: 20pt;
+   color: darkgray;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+   }
+#vizRow1{
+    padding: 20px;
+
+}
+.navbar-brand {background-color: rgb(27, 230, 230);
+        color : white;
+        padding: 20px; 
+        margin-left: 0px;
+        margin-right: px;       
+        font-size: 20pt;
+        font: bold;
+    }
+#PanelRow{background-color: lightgray;}
+#VisualizationsPanel, #SummaryPanel { margin-top: 20px;}
+
+.panel-title{font-size: 16pt;
+             font: bold;
+            color: rgb(7, 141, 141);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+#navigation-bar{background-color: white; 
+                     display: inline;
+                    margin: 0px;
+                    }
+.img-responsive {padding-top: 15px;
+                padding-bottom: 15px;}
+#naviBar{margin-bottom: 0px;
+         color: black;}
+#footer { 
+   
+    background-color: black;
+    text-align: center;
+}
+#summaryPanel{display: inline-block}
+
+.summaryPara { text-align: left;
+ }
+p{text-align:left;
+word-break: normal }
+
+.panel-body  {
+    word-break:break-all;
+}
